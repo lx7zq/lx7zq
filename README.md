@@ -1,7 +1,7 @@
 Hi 👋 My name is Prempree Deelert
 =================================
 
-Student Software Developer
+Student Software Engineer
 --------------------------
 
 I've been learning to code for 4 years, and while my university taught fullstack development, I have a particular passion for front-end work.
